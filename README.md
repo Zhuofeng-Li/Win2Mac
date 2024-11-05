@@ -4,7 +4,8 @@ Please set Apps open automatically after login, check [here](https://support.app
 + [Rectangle](https://rectangleapp.com/): Split windows.
 + [ScrollReverser](https://pilotmoon.com/scrollreverser/): Change mouse scroll direction.
 + [Snipaste](https://www.snipaste.com/): Snipping tool.
-+ [Karabiner-Elements](https://karabiner-elements.pqrs.org/): Remap keys. 
++ [Karabiner-Elements](https://karabiner-elements.pqrs.org/): Remap keys.
++ [Alfred](https://www.alfredapp.com/):powerful tools.  
 
 ## Shortcuts
 + Exchange command + delete (delete current line) and option + delete. [link](https://ke-complex-modifications.pqrs.org/#ctrl_deletes_to_option_deletes)
