@@ -11,3 +11,7 @@ Please set Apps open automatically after login, check [here](https://support.app
 + Exchange command + delete (delete current line) and option + delete. [Karabiner-Elements Settings](https://ke-complex-modifications.pqrs.org/#ctrl_deletes_to_option_deletes)
 + Exchange command + arrow keys and option + delete. [Karabiner-Elements Settings](https://ke-complex-modifications.pqrs.org/#ctrl_arrows_to_option_arrows)
 + Change left_shift+left_option+left_command+v to left_shift+left_command+v. [Karabiner-Elements Settings]()
+### Rectangle 
++ Life screen: command + shift + <- .
++ Right screen: command + shift + -> . 
++ Maximize screen: option + f .
