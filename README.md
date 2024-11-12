@@ -8,6 +8,7 @@ Please set Apps open automatically after login, check [here](https://support.app
 + [Alfred](https://www.alfredapp.com/):powerful tools. [tutorial](https://louiszhai.github.io/2018/05/31/alfred/#14-%E7%B3%BB%E7%BB%9F%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%BF%AB%E6%8D%B7%E6%93%8D%E4%BD%9C)
 
 ## Shortcuts
+### Karabiner-Elements Settings
 + Exchange command + delete (delete current line) and option + delete. [Karabiner-Elements Settings](https://ke-complex-modifications.pqrs.org/#ctrl_deletes_to_option_deletes)
 + Exchange command + arrow keys and option + delete. [Karabiner-Elements Settings](https://ke-complex-modifications.pqrs.org/#ctrl_arrows_to_option_arrows)
 + Change left_shift+left_option+left_command+v to left_shift+left_command+v. [Karabiner-Elements Settings]()
@@ -15,3 +16,5 @@ Please set Apps open automatically after login, check [here](https://support.app
 + Life screen: command + shift + <- .
 + Right screen: command + shift + -> . 
 + Maximize screen: option + f .
+### Automator
++ [Open the folder through Cursor.](https://blog.csdn.net/Shao_yihao/article/details/127834604)
