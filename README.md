@@ -11,6 +11,9 @@ Please set Apps open automatically after login, check [here](https://support.app
 + [Fish](https://fishshell.com/): [change default shell to fish](https://www.cnblogs.com/Undefined443/p/17968875)
 
 ## Shortcuts
+### Mac
++ Search: cmd + space
++ Open finder: cmd + option + space
 ### Vscode
 + Fold all: cmd + option + f
 + Unfold all: cmd + option + u
