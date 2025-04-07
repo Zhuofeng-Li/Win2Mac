@@ -30,3 +30,4 @@ Please set Apps open automatically after login, check [here](https://support.app
 
 ## Note
 + Copy cursor JSON keyboard settings, user settings 
++ [Set path in fish](https://stackoverflow.com/questions/66724016/my-fish-is-blind-fish-does-not-recognise-any-commands-after-setting-it-as-defa)
