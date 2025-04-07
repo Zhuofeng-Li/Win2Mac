@@ -27,3 +27,6 @@ Please set Apps open automatically after login, check [here](https://support.app
 + Maximize screen: option + f .
 ### Automator
 + [Open the folder through Cursor.](https://blog.csdn.net/Shao_yihao/article/details/127834604)
+
+## Note
++ Copy cursor JSON keyboard settings, user settings 
